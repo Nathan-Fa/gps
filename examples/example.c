@@ -4,7 +4,7 @@
  */
 #include <string.h>
 #include <stdio.h>
-#include "lwgps/src/include/lwgps/lwgps.h"
+#include "../lwgps/src/include/lwgps/lwgps.h"
 
 /* GPS handle */
 lwgps_t hgps;

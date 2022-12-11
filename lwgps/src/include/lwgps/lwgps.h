@@ -37,7 +37,7 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <limits.h>
-#include "lwgps/lwgps_opt.h"
+#include "lwgps_opt.h"
 
 #ifdef __cplusplus
 extern "C" {
